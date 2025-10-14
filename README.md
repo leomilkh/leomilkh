@@ -12,7 +12,7 @@
     🤍 Music • Games • Art
 </pre>
 <br><br>
-<img src="https://raw.githubusercontent.com/leomilkh/leomilkh/refs/heads/main/happy%20pixel%20STICKER.gif" height="100" />
+<img src="https://github.com/leomilkh/leomilkh/blob/main/Welsh%20Corgi%20Hello%20Sticker%20by%20Lazy%20Corgi.gif" height="170" />
 <br><br><br>
 
 [![Email](https://img.shields.io/badge/gmail-3b5998?style=flat-square&logo=Gmail&logoColor=white&labelColor=C20035&color=C20035)](mailto:vorontsovaiva@gmail.com)
