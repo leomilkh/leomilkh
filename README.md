@@ -3,7 +3,7 @@
 ## 🗝️ Statistics
 
 ![](https://github-readme-stats.vercel.app/api?username=leomilkh&theme=rose&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=8&hide_progress=true&username=leomilkh&bg_color=FFA3BF,FFE3A3,A3FFE3)
+![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=8&hide_progress=true&username=leomilkh&bg_color=FFA3ED,FFA3BF,FFB5A3)
 
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
