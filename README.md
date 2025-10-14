@@ -9,10 +9,10 @@
     🗒️ <b>Test documentation</b> — Yandex Tracker • Jira • ClickUp • Test It • Notion
     🎛️ <b>Databases</b> — PostgreSQL • Mongo DB • Metabase • DBeaver
     👾 <b>Autotests</b> — Cypress • Selenium • pytest • Actions • GitLab • Visual Studio Code
-    🎮 Music • Games • Art
+    🤍 Music • Games • Art
 </pre>
 <br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src="https://raw.githubusercontent.com/leomilkh/leomilkh/refs/heads/main/happy%20pixel%20STICKER.gif" height="70" />
 <br><br><br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
