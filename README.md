@@ -75,7 +75,7 @@
 
 
 ## 📚 Education
-[<img src="/cute-little-dog-impersonating-business-person.jpg" width="280px" hspace="10px" alt="Diploma»">](https://raw.githubusercontent.com/leomilkh/leomilkh/refs/heads/main/cute-little-dog-impersonating-business-person.jpg)
+[<img src="/cute-little-dog-impersonating-business-person.jpg" width="380px" hspace="20px" alt="Diploma»">](https://raw.githubusercontent.com/leomilkh/leomilkh/refs/heads/main/cute-little-dog-impersonating-business-person.jpg)
 
 ## 👁️ Contact me!
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:vorontsovaiva@gmail.com)
