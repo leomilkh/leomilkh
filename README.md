@@ -11,6 +11,13 @@
     👾 <b>Autotests</b> — Cypress • Selenium • pytest • Actions • GitLab • Visual Studio Code
     🤍 Music • Games • Art
 </pre>
+    <pre>
+    <details>
+<summary>My diplomas</summary>
+there`s nothing here yet bc i`m still learning. look at this dog instead
+        <img src="https://raw.githubusercontent.com/leomilkh/leomilkh/refs/heads/main/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(2).jpg" height="250" />
+</details>
+</pre>
 <br><br>
 <img src="https://github.com/leomilkh/leomilkh/blob/main/happy%20pixel%20STICKER.gif" height="110" />
 <br><br><br>
