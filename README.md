@@ -14,8 +14,8 @@
     <pre>
     <details>
 <summary>My diplomas</summary>
-there`s nothing here yet bc i`m still learning. look at this dog instead
-        <img src="https://raw.githubusercontent.com/leomilkh/leomilkh/refs/heads/main/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(2).jpg" height="250" />
+there`s not much here yet bc i`m still learning
+        <img src="https://raw.githubusercontent.com/leomilkh/leomilkh/refs/heads/main/stepik-certificate-3432-daa1aa41.png" height="250" />
 </details>
 </pre>
 <br><br>
