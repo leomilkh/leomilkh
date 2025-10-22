@@ -18,9 +18,17 @@ there`s not much here yet bc i`m still learning
         <img src="https://raw.githubusercontent.com/leomilkh/leomilkh/refs/heads/main/stepik-certificate-3432-daa1aa41.png" height="250" />
 </details>
 </pre>
-<br><br>
-<img src="https://github.com/leomilkh/leomilkh/blob/main/happy%20pixel%20STICKER.gif" height="110" />
-<br><br><br>
 
-[![Email](https://img.shields.io/badge/gmail-3b5998?style=flat-square&logo=Gmail&logoColor=white&labelColor=C20035&color=C20035)](mailto:vorontsovaiva@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white&labelColor=666666&color=666666)](https://t.me/leomilh)
+<div align="center">
+<a href="https://t.me/leomilh">
+  <img src="https://raw.githubusercontent.com/leomilkh/leomilkh/refs/heads/main/big190216-round-corners.png" width="100"/>
+</a>
+  <span style="display:inline-block; width:20px;"></span>
+    <a href="https://mail.google.com/mail/?view=cm&to=vorontsovaiva@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/leomilkh/leomilkh/refs/heads/main/big190230-round-corners.png" width="100" />
+</a>
+</div>
+
+<br>
+<img src="https://github.com/leomilkh/leomilkh/blob/main/happy%20pixel%20STICKER.gif" height="110" />
+</br>
