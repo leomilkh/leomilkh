@@ -13,7 +13,7 @@
 </pre>
     <pre>
     <details>
-<summary>My diplomas</summary>
+<summary>My certificates</summary>
 there`s not much here yet bc i`m still learning
         <img src="https://raw.githubusercontent.com/leomilkh/leomilkh/refs/heads/main/stepik-certificate-3432-daa1aa41.png" height="250" />
 </details>
