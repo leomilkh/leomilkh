@@ -4,7 +4,7 @@
 <br><br>
 <pre>
     🐶 <b>API testing</b> — Postman • SOAP • Kafka • REST • Swagger • Docker
-    🍓 <b>Web & Mobile testing</b> — Figma • HTTP • HTML • CSS • Firebase • Android Studio • Charles-proxy
+    🍓 <b>Web & Mobile testing</b> — Figma • HTTP • HTML • CSS • Firebase • Android Studio • Charles
     🐶 <b>Logs & monitoring</b> — Kibana • Sentry • Grafana • Jaeger • Bash 
     🍓 <b>Test documentation</b> — Yandex Tracker • Jira • Test It • Notion
     🐶 <b>Databases</b> — PostgreSQL • Mongo DB • Metabase • DBeaver
