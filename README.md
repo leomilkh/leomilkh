@@ -6,7 +6,7 @@
     🐶 <b>API testing</b> — Postman • SOAP • Kafka • REST • Swagger • Docker
     🍓 <b>Web & Mobile testing</b> — Figma • HTTP • HTML • CSS • Firebase • Android Studio • Charles-proxy
     🐶 <b>Logs & monitoring</b> — Kibana • Sentry • Grafana • Jaeger • Bash 
-    🍓 <b>Test documentation</b> — Yandex Tracker • Jira • ClickUp • Test It • Notion
+    🍓 <b>Test documentation</b> — Yandex Tracker • Jira • Test It • Notion
     🐶 <b>Databases</b> — PostgreSQL • Mongo DB • Metabase • DBeaver
     🍓 <b>Autotests</b> — Cypress • Selenium • pytest • Actions • GitLab • Visual Studio Code
     🤍 Music • Games • Art
