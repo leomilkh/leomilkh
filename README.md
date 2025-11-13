@@ -3,12 +3,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=3500&pause=100&color=C20035&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=%E2%9C%B2+hi!;i`m+Leo%2C+a+QA+engineer+%E2%9C%B2" width="70%" />
 <br><br>
 <pre>
-    💼 <b>API testing</b> — Postman • SOAP • Kafka • REST • Swagger • Docker
-    💻 <b>Web & Mobile testing</b> — Figma • HTTP • HTML • CSS • Firebase • Android Studio • Charles-proxy
-    👁️ <b>Logs & monitoring</b> — Kibana • Sentry • Grafana • Jaeger • Bash 
-    🗒️ <b>Test documentation</b> — Yandex Tracker • Jira • ClickUp • Test It • Notion
-    🎛️ <b>Databases</b> — PostgreSQL • Mongo DB • Metabase • DBeaver
-    👾 <b>Autotests</b> — Cypress • Selenium • pytest • Actions • GitLab • Visual Studio Code
+    🐶 <b>API testing</b> — Postman • SOAP • Kafka • REST • Swagger • Docker
+    🍓 <b>Web & Mobile testing</b> — Figma • HTTP • HTML • CSS • Firebase • Android Studio • Charles-proxy
+    🐶 <b>Logs & monitoring</b> — Kibana • Sentry • Grafana • Jaeger • Bash 
+    🍓 <b>Test documentation</b> — Yandex Tracker • Jira • ClickUp • Test It • Notion
+    🐶 <b>Databases</b> — PostgreSQL • Mongo DB • Metabase • DBeaver
+    🍓 <b>Autotests</b> — Cypress • Selenium • pytest • Actions • GitLab • Visual Studio Code
     🤍 Music • Games • Art
 </pre>
     <pre>
