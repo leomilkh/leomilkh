@@ -16,7 +16,6 @@
 <summary>My certificates</summary>
         <img src="https://raw.githubusercontent.com/leomilkh/leomilkh/refs/heads/main/stepik-certificate-3432-daa1aa41.png" height="250" />
         <img src="https://raw.githubusercontent.com/leomilkh/leomilkh/refs/heads/main/certificate-7gy5623hb2a497002a1b8c5e1.jpg" height="250" />
-        <img src="https://raw.githubusercontent.com/leomilkh/leomilkh/refs/heads/main/079c9ed28e211.png" height="495" />
 </details>
 </pre>
 
